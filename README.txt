@@ -1,4 +1,7 @@
 # frameio-composer-laravel
+run the following command to install the package
+
+composer require openweb/frameio:dev-master
 
 --------- Config FrameIOClient -------
 
