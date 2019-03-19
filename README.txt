@@ -1,7 +1,4 @@
 # frameio-composer-laravel
-    Include file globally 
-
-     frameio/vendor/autoload.php 
 
 --------- Config FrameIOClient -------
 
