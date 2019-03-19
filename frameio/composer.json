@@ -1,0 +1,24 @@
+{
+    "name": "openweb/frameio",
+    "type": "library",
+    "description": "",
+    "keywords": [],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Suman Saha",
+            "email": "suman@openwebsolutions.in"
+        }
+    ],
+    "require": {
+    },
+    "require-dev": {
+        "guzzlehttp/guzzle": "^6.3"
+    },
+    "autoload": {
+        "files": ["src/include.php"],
+        "psr-0": {
+            "Frameio": "src/"
+        }
+    }
+}
