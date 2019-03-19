@@ -18,7 +18,7 @@
     "autoload": {
         "files": ["src/include.php"],
         "psr-0": {
-            "Frameio": "src/"
+            "Frameio\\": "src/"
         }
     },
     "extra": {
