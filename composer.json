@@ -2,7 +2,7 @@
     "name": "openweb/frameio",
     "type": "library",
     "description": "",
-    "keywords": [],
+    "keywords": ["frameIo client"],
     "license": "MIT",
     "authors": [
         {
@@ -20,5 +20,10 @@
         "psr-0": {
             "Frameio": "src/"
         }
+    },
+    "extra": {
+       "branch-alias": {
+       "dev-master": "1.0-dev"
+	}
     }
 }
